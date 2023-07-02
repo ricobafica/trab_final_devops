@@ -1,6 +1,7 @@
 # dentro do venv
 pytest==7.4.0
 flake8==6.0.0
+# python==3.10
 
 # fora do venv, as versoes sao:
 # pytest==7.3.2
